@@ -1,0 +1,83 @@
+Bom dia, o link do projeto em node:
+https://github.com/Lucasds98/Converter-Arquivo---Node.js
+O projeto le os arquivos csv, converte para json e salva em um arquivo .json.
+
+
+
+Agora o tempo anotado nas questões a seguir:
+
+1 - 2.715ms 0.002715s
+
+2 - 5 vezes executado.
+
+Minimo 35.5904s
+
+Maximo 46.0533s
+
+Media 39,2823s
+
+
+
+39277.502ms	39.2775s
+
+46053.280ms	46.0533s
+
+38169.208ms	38.1692s
+
+37321.224ms	37.3212s
+
+35590.397ms	35.5904s
+
+		196,4116s/5
+
+		39,2823s
+
+
+
+3 - 5 vezes executado
+
+Minimo 72.4431s
+
+Maximo 87.1375s
+
+Media  78,7963s
+
+
+
+78579.222ms	78.5792s
+
+73905.512ms	73.9055s
+
+72443.138ms	72.4431s
+
+87137.528ms	87.1375s
+
+81916.056ms	81.9161s
+
+		393,9814s/5
+
+		78,7963s
+
+4 - 5 vezes executado
+
+Minimo 0.646655s
+
+Maximo 0.001341s
+
+Media  0,6597788s
+
+
+
+646.655ms      0.646655s
+
+654.377ms       0.654377s
+
+652.894ms       0.652894s
+
+674.045ms       0.674045s
+
+670.923ms       0.670923s
+
+		3,298894/5
+
+		0,6597788s
